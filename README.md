@@ -60,26 +60,26 @@ Pra uma boa arquitetura CSS é necessário desenvolver uma clareza sobre como es
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) | Josh Comeau | [ ] |
-| [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/) | Josh Comeau | [ ]|
-| [Chasing the Pixel-Perfect Dream](https://www.joshwcomeau.com/css/pixel-perfection/) | Josh Comeau | [ ] |
-| [The State Of Pixel Perfection](https://ishadeed.com/article/pixel-perfection/) | Ahmad Shadeed | [ ] |
-| [Every Layout - Rudiments](https://every-layout.dev/rudiments/) | Andy Bell e Heydon Pickering | [ ] |
-| [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/) | Patrick Clancey | [ ] |
-| [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/) | Ahmad Shadeed | [ ] |
-| [Conditional CSS](https://ishadeed.com/article/conditional-css/) | Ahmad Shadeed | [ ] |
-| [Inside the mind of a frontend developer: Article layout](https://ishadeed.com/article/inside-frontend-developer-mind-article-layout/) | Ahmad Shadeed | [ ] |
-| [Tweaking In The Browser](https://ishadeed.com/article/tweaking-in-the-browser/) | Ahmad Shadeed | [ ] |
-| [Defensive CSS](https://ishadeed.com/article/defensive-css/) | Ahmad Shadeed | [ ] |
-| [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/) | Ahmad Shadeed | [ ] |
-| [Critical CSS? Not So Fast!](https://csswizardry.com/2022/09/critical-css-not-so-fast/) | Harry Roberts | [ ] |
-| [CSS: A New Kind Of JavaScript](https://heydonworks.com/article/css:-a-new-kind-of-javascript/) | Heydon Pickering | [ ] |
-| [A Whole Cascade of Layers (the path to SBRDFLT)](https://www.miriamsuzanne.com/2022/09/06/layers/) |  Mirian Suzanne | [ ] |
-| [CUBECSS](https://andy-bell.co.uk/cube-css/) | Andy Bell | [ ] |
-| [Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS? (transcrição)](https://www.smashingmagazine.com/2021/05/smashing-podcast-episode-36/) |  Mirian Suzanne | [ ] |
-| [Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/) | Dave Rupert | [ ] |
-| [Why is CSS so Weird? (video)](https://www.youtube.com/watch?v=aHUtMbJw8iA&ab_channel=MozillaDeveloper) | Mirian Suzanne | [ ] |
-| [Everything You Know About the Web Just Changed (video)](https://www.youtube.com/watch?v=jBwBACbRuGY&ab_channel=AnEventApart) | Jen Simmons | [ ] |
+| [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) | Josh Comeau | |
+| [You Don’t Need A UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/) | Josh Comeau | |
+| [Chasing the Pixel-Perfect Dream](https://www.joshwcomeau.com/css/pixel-perfection/) | Josh Comeau | |
+| [The State Of Pixel Perfection](https://ishadeed.com/article/pixel-perfection/) | Ahmad Shadeed | |
+| [Every Layout - Rudiments](https://every-layout.dev/rudiments/) | Andy Bell e Heydon Pickering | |
+| [Mobile-First CSS: Is It Time for a Rethink?](https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/) | Patrick Clancey | |
+| [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/) | Ahmad Shadeed | |
+| [Conditional CSS](https://ishadeed.com/article/conditional-css/) | Ahmad Shadeed | |
+| [Inside the mind of a frontend developer: Article layout](https://ishadeed.com/article/inside-frontend-developer-mind-article-layout/) | Ahmad Shadeed | |
+| [Tweaking In The Browser](https://ishadeed.com/article/tweaking-in-the-browser/) | Ahmad Shadeed | |
+| [Defensive CSS](https://ishadeed.com/article/defensive-css/) | Ahmad Shadeed | |
+| [The State Of Mobile First and Desktop First](https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/) | Ahmad Shadeed | |
+| [Critical CSS? Not So Fast!](https://csswizardry.com/2022/09/critical-css-not-so-fast/) | Harry Roberts | |
+| [CSS: A New Kind Of JavaScript](https://heydonworks.com/article/css:-a-new-kind-of-javascript/) | Heydon Pickering | |
+| [A Whole Cascade of Layers (the path to SBRDFLT)](https://www.miriamsuzanne.com/2022/09/06/layers/) |  Mirian Suzanne | |
+| [CUBECSS](https://andy-bell.co.uk/cube-css/) | Andy Bell | |
+| [Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS? (transcrição)](https://www.smashingmagazine.com/2021/05/smashing-podcast-episode-36/) |  Mirian Suzanne | |
+| [Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/) | Dave Rupert | |
+| [Why is CSS so Weird? (video)](https://www.youtube.com/watch?v=aHUtMbJw8iA&ab_channel=MozillaDeveloper) | Mirian Suzanne | |
+| [Everything You Know About the Web Just Changed (video)](https://www.youtube.com/watch?v=jBwBACbRuGY&ab_channel=AnEventApart) | Jen Simmons | |
 
 &nbsp;
 <br />
@@ -91,31 +91,31 @@ Padrões e conceitos de Layouts com CSS. Cada vez que o paradigma web avança, a
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/) | Jake Archibald | [ ] |
-| [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) | Josh Comeau | [ ] |
-| [Full-Bleed Layout Using CSS Grid](https://www.joshwcomeau.com/css/full-bleed/) | Josh Comeau | [ ] |
-| [Practical CSS Grid: Adding Grid to an Existing Design](https://alistapart.com/article/practical-grid/) | Eric Meyer | [ ] |
-| [The Story of CSS Grid, from Its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators/) |  Aaron Gustafson | [ ] |
-| [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/) | Ahmad Shadeed | [ ] |
-| [Laying out Forms using Subgrid](https://www.miriamsuzanne.com/2019/10/16/subgrid-forms/) | Mirian Suzanne | [ ] |
-| [Learn CSS Subgrid](https://ishadeed.com/article/learn-css-subgrid/) | Ahmad Shadeed | [ ] |
-| [Using Position Sticky With CSS Grid](https://ishadeed.com/article/position-sticky-css-grid/) | Ahmad Shadeed | [ ] |
-| [Create a split, faux-container layout with CSS Grid and Flexbox](https://piccalil.li/tutorial/create-a-split-faux-container-layout-with-css-grid-and-flexbox/) | Andy Bell | [ ] |
-| [The new responsive: Web design in a component-driven world](https://web.dev/new-responsive/) | Una Kravets | [ ] |
-| [min(), max() e clamp(): três funções CSS lógicas para usar hoje](https://web.dev/min-max-clamp/) | Una Kravets | [ ] |
-| [Modern CSS Solutions](https://moderncss.dev/) | Stephanie Eckles | [ ] |
-| [Style Stage](https://stylestage.dev/styles/) | Stephanie Eckles | [ ] |
-| [Contextual Callouts with CSS Grid](https://www.jonathan-harrell.com/blog/contextual-callouts-with-css-grid/) |Jonathan Harrell | [ ] |
-| [The Flexbox Holy Albatross](https://heydonworks.com/article/the-flexbox-holy-albatross/) | Heydon Pickering | [ ] |
-| [The Flexbox Holy Albatross: Reincarnated](https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/) | Heydon Pickering | [ ] |
-| [Tetris And The Power Of CSS](https://heydonworks.com/article/tetris-and-the-power-of-css/) | Heydon Pickering | [ ] |
-| [Faster Layouts with CSS Grid (video)](https://youtu.be/KOvGeFUHAC0) | Mirian Suzanne | [ ] |
-| [Subgrid for Better Card Layouts (video)](https://www.youtube.com/watch?v=lLnFtK1LNu4&embeds_euri=https%3A%2F%2Fwww.miriamsuzanne.com%2F&source_ve_path=MjM4NTE&feature=emb_title) | Mirian Suzanne | [ ] |
-| [Designing With Grid (video)](https://www.youtube.com/watch?v=t0b3uBoDkBs&ab_channel=AnEventApart) | Jen Simmons | [ ] |
-| [CSS Grid Basics playlist (video)](https://www.youtube.com/playlist?list=PLbSquHt1VCf0b43dfLKTrCriXdlZcmgoi) | Jen Simmons | [ ] |
-| [(Layout) Core Concepts](https://www.youtube.com/playlist?list=PLbSquHt1VCf2AP5Jk31w4o7M1vokG4Gli) | Jen Simmons | [ ] |
-| [Designing Intrinsic Layouts (video)](https://www.youtube.com/watch?v=AMPKmh98XLY&ab_channel=AnEventApart) | Jen Simmons | [ ] |
-| [Modern Layouts: Getting Out of Our Ruts” by Jen Simmons (video)](https://www.youtube.com/watch?v=jreccgYLfx8&ab_channel=AnEventApart) | Jen Simmons | [ ] |
+| [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/) | Jake Archibald | |
+| [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) | Josh Comeau | |
+| [Full-Bleed Layout Using CSS Grid](https://www.joshwcomeau.com/css/full-bleed/) | Josh Comeau | ✔️ |
+| [Practical CSS Grid: Adding Grid to an Existing Design](https://alistapart.com/article/practical-grid/) | Eric Meyer | |
+| [The Story of CSS Grid, from Its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators/) |  Aaron Gustafson | |
+| [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/) | Ahmad Shadeed | |
+| [Laying out Forms using Subgrid](https://www.miriamsuzanne.com/2019/10/16/subgrid-forms/) | Mirian Suzanne | |
+| [Learn CSS Subgrid](https://ishadeed.com/article/learn-css-subgrid/) | Ahmad Shadeed | |
+| [Using Position Sticky With CSS Grid](https://ishadeed.com/article/position-sticky-css-grid/) | Ahmad Shadeed | |
+| [Create a split, faux-container layout with CSS Grid and Flexbox](https://piccalil.li/tutorial/create-a-split-faux-container-layout-with-css-grid-and-flexbox/) | Andy Bell | |
+| [The new responsive: Web design in a component-driven world](https://web.dev/new-responsive/) | Una Kravets | |
+| [min(), max() e clamp(): três funções CSS lógicas para usar hoje](https://web.dev/min-max-clamp/) | Una Kravets | |
+| [Modern CSS Solutions](https://moderncss.dev/) | Stephanie Eckles | |
+| [Style Stage](https://stylestage.dev/styles/) | Stephanie Eckles | |
+| [Contextual Callouts with CSS Grid](https://www.jonathan-harrell.com/blog/contextual-callouts-with-css-grid/) |Jonathan Harrell | |
+| [The Flexbox Holy Albatross](https://heydonworks.com/article/the-flexbox-holy-albatross/) | Heydon Pickering | |
+| [The Flexbox Holy Albatross: Reincarnated](https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/) | Heydon Pickering | |
+| [Tetris And The Power Of CSS](https://heydonworks.com/article/tetris-and-the-power-of-css/) | Heydon Pickering | |
+| [Faster Layouts with CSS Grid (video)](https://youtu.be/KOvGeFUHAC0) | Mirian Suzanne | |
+| [Subgrid for Better Card Layouts (video)](https://www.youtube.com/watch?v=lLnFtK1LNu4&embeds_euri=https%3A%2F%2Fwww.miriamsuzanne.com%2F&source_ve_path=MjM4NTE&feature=emb_title) | Mirian Suzanne | |
+| [Designing With Grid (video)](https://www.youtube.com/watch?v=t0b3uBoDkBs&ab_channel=AnEventApart) | Jen Simmons | |
+| [CSS Grid Basics playlist (video)](https://www.youtube.com/playlist?list=PLbSquHt1VCf0b43dfLKTrCriXdlZcmgoi) | Jen Simmons | |
+| [(Layout) Core Concepts](https://www.youtube.com/playlist?list=PLbSquHt1VCf2AP5Jk31w4o7M1vokG4Gli) | Jen Simmons | |
+| [Designing Intrinsic Layouts (video)](https://www.youtube.com/watch?v=AMPKmh98XLY&ab_channel=AnEventApart) | Jen Simmons | |
+| [Modern Layouts: Getting Out of Our Ruts” by Jen Simmons (video)](https://www.youtube.com/watch?v=jreccgYLfx8&ab_channel=AnEventApart) | Jen Simmons | |
 
 &nbsp;
 <br />
@@ -126,9 +126,9 @@ Padrões e conceitos de Layouts com CSS. Cada vez que o paradigma web avança, a
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [The CSS Cascade](https://wattenberger.com/blog/css-cascade) | Amelia Wattenberger | [ ] |
-| [CSS specificity and the cascade](https://piccalil.li/tutorial/css-specifity-and-the-cascade/) | Andy Bell | [ ] |
-| [Specifishity](https://specifishity.com/) | Estelle Weyl | [ ] |
+| [The CSS Cascade](https://wattenberger.com/blog/css-cascade) | Amelia Wattenberger | |
+| [CSS specificity and the cascade](https://piccalil.li/tutorial/css-specifity-and-the-cascade/) | Andy Bell | |
+| [Specifishity](https://specifishity.com/) | Estelle Weyl | |
 
 &nbsp;
 <br />
@@ -139,17 +139,17 @@ Variáveis CSS mereceram um tópico só pra elas pois são extremamente poderosa
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [Global and Component Style Settings with CSS Variables](https://www.sarasoueidan.com/blog/style-settings-with-css-variables/) | Sara Soueidan | [ ] |
-| [CSS Custom Properties In The Cascade](https://www.smashingmagazine.com/2019/07/css-custom-properties-cascade/) | Miriam Suzanne | [ ] |
-| [Using Custom Property “Stacks” to Tame the Cascade](https://css-tricks.com/using-custom-property-stacks-to-tame-the-cascade/) | Miriam Suzanne | [ ] |
-| [Unlocking the Benefits of CSS Variables](https://www.jonathan-harrell.com/blog/unlocking-the-benefits-of-css-custom-properties/) | Jonathan Harrel | [ ] |
-| [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/) | Josh Comeau | [ ] |
-| [The Power of Composition with CSS Variables](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/) | Maxime Heckel | [ ] |
-| [Composing the Uncomposable with CSS Variables](https://adamwathan.me/composing-the-uncomposable-with-css-variables/) | Adam Watham | [ ] |
-| [10 powerful ways to use CSS variables](https://nerdy.dev/custom-prop-categories) | Adam Argyle | [ ] |
-| [Component Variants with Scoped CSS Variables](https://www.jonathan-harrell.com/blog/component-variants-with-scoped-css-variables/) | Jonathan Harrell | [ ] |
-| [Unlocking the Benefits of CSS Variables](https://www.jonathan-harrell.com/blog/unlocking-the-benefits-of-css-custom-properties/) | Jonathan Harrell | [ ] |
-| [Live Theming with CSS Variables](https://www.jonathan-harrell.com/blog/live-theming-with-css-variables/) | Jonathan Harrell | [ ] |
+| [Global and Component Style Settings with CSS Variables](https://www.sarasoueidan.com/blog/style-settings-with-css-variables/) | Sara Soueidan | |
+| [CSS Custom Properties In The Cascade](https://www.smashingmagazine.com/2019/07/css-custom-properties-cascade/) | Miriam Suzanne | |
+| [Using Custom Property “Stacks” to Tame the Cascade](https://css-tricks.com/using-custom-property-stacks-to-tame-the-cascade/) | Miriam Suzanne | |
+| [Unlocking the Benefits of CSS Variables](https://www.jonathan-harrell.com/blog/unlocking-the-benefits-of-css-custom-properties/) | Jonathan Harrel | |
+| [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/) | Josh Comeau | |
+| [The Power of Composition with CSS Variables](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/) | Maxime Heckel | |
+| [Composing the Uncomposable with CSS Variables](https://adamwathan.me/composing-the-uncomposable-with-css-variables/) | Adam Watham | |
+| [10 powerful ways to use CSS variables](https://nerdy.dev/custom-prop-categories) | Adam Argyle | |
+| [Component Variants with Scoped CSS Variables](https://www.jonathan-harrell.com/blog/component-variants-with-scoped-css-variables/) | Jonathan Harrell | |
+| [Unlocking the Benefits of CSS Variables](https://www.jonathan-harrell.com/blog/unlocking-the-benefits-of-css-custom-properties/) | Jonathan Harrell | |
+| [Live Theming with CSS Variables](https://www.jonathan-harrell.com/blog/live-theming-with-css-variables/) | Jonathan Harrell | |
 
 &nbsp;
 <br />
@@ -159,13 +159,13 @@ CSS está progressivamente dando suporte pra diversas funções de cores, permit
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) | Bartosz Ciechanowski | [ ] |
-| [Unlocking Colors](https://bkardell.com/blog/Unlocking-Colors.html) | Brian Kardell | [ ] |
-| [Calculating Color: Dynamic Color Theming with Pure CSS](https://una.im/css-color-theming/) | Una Kravets | [ ] |
-| [A color-contrast() strategy for complimentary translucent backgrounds](https://nerdy.dev/color-from-color-contrast-result) | Adam Argyle | [ ] |
-| [Gradient hue interpolation](https://nerdy.dev/gradients-going-the-shorter-longer-increasing-or-decreasing-route) | Adam Argyle | [ ] |
-| [LCH Luminance vs HSL Lightness](https://nerdy.dev/lch-luminance-vs-hsl-lightness) | Adam Argyle | [ ] |
-| [Improving Color on the Web](https://webkit.org/blog/6682/improving-color-on-the-web/) | Dean Jackson | [ ] |
+| [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) | Bartosz Ciechanowski | |
+| [Unlocking Colors](https://bkardell.com/blog/Unlocking-Colors.html) | Brian Kardell | |
+| [Calculating Color: Dynamic Color Theming with Pure CSS](https://una.im/css-color-theming/) | Una Kravets | |
+| [A color-contrast() strategy for complimentary translucent backgrounds](https://nerdy.dev/color-from-color-contrast-result) | Adam Argyle | |
+| [Gradient hue interpolation](https://nerdy.dev/gradients-going-the-shorter-longer-increasing-or-decreasing-route) | Adam Argyle | |
+| [LCH Luminance vs HSL Lightness](https://nerdy.dev/lch-luminance-vs-hsl-lightness) | Adam Argyle | |
+| [Improving Color on the Web](https://webkit.org/blog/6682/improving-color-on-the-web/) | Dean Jackson | |
 
 &nbsp;
 <br />
@@ -175,10 +175,10 @@ Tipografia infelizmente é um campo pouco explorado, mas recheado de possibilida
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [Fluid typography with CSS clamp](https://piccalil.li/tutorial/fluid-typography-with-css-clamp/) | Andy Bell | [ ] |
-| [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/) | Kathleen McMahon | [ ] |
-| [Font Hacking](https://heydonworks.com/article/font-hacking/) | Heydon Pickering | [ ] |
-| [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/) |  Myles C. Maxfield e David Jonathan Ross | [ ] |
+| [Fluid typography with CSS clamp](https://piccalil.li/tutorial/fluid-typography-with-css-clamp/) | Andy Bell | |
+| [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/) | Kathleen McMahon | |
+| [Font Hacking](https://heydonworks.com/article/font-hacking/) | Heydon Pickering | |
+| [Customizing Color Fonts on the Web](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/) |  Myles C. Maxfield e David Jonathan Ross | |
 
 &nbsp;
 <br />
@@ -188,11 +188,11 @@ Container Queries mereceu um tópico só pra si por ser algo emergente que vai m
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [Component-level art direction with CSS Container Queries](https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/) | Sara Soueidan | [ ] |
-| [Next Gen CSS: @container](https://css-tricks.com/next-gen-css-container/) | Una Kravets | [ ] |
-| [CSS container queries are finally here](https://ishadeed.com/article/container-queries-are-finally-here/) | Ahmad Shadeed | [ ] |
-| [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/) | Ahmad Shadeed | [ ] |
-| [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/) | Stephanie Eckles | [ ] |
+| [Component-level art direction with CSS Container Queries](https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/) | Sara Soueidan | |
+| [Next Gen CSS: @container](https://css-tricks.com/next-gen-css-container/) | Una Kravets | |
+| [CSS container queries are finally here](https://ishadeed.com/article/container-queries-are-finally-here/) | Ahmad Shadeed | |
+| [CSS Style Queries](https://ishadeed.com/article/css-container-style-queries/) | Ahmad Shadeed | |
+| [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/) | Stephanie Eckles | |
 
 &nbsp;
 <br />
@@ -202,8 +202,8 @@ Apesar de não ter um suporte bom o bastante pra ser utilizada sem o [preset-env
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [A Complete Guide to CSS Cascade Layers](https://css-tricks.com/css-cascade-layers/) | Miriam Suzanne | [ ] |
-| [Making Sense of CSS Layers and Scope (video)](https://youtu.be/UmmePVi0TUk) | Miriam Suzanne | [ ] |
+| [A Complete Guide to CSS Cascade Layers](https://css-tricks.com/css-cascade-layers/) | Miriam Suzanne | |
+| [Making Sense of CSS Layers and Scope (video)](https://youtu.be/UmmePVi0TUk) | Miriam Suzanne | |
 
 &nbsp;
 <br />
@@ -213,8 +213,8 @@ Logical properties se referem a propriedades que já conhecíamos, como margin, 
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [Digging Into CSS Logical Properties](https://ishadeed.com/article/css-logical-properties/) | Ahmad Shadeed | [ ] |
-| [CSS Logical Properties](https://andy-bell.co.uk/css-logical-properties/) | Andy Bell | [ ] |
+| [Digging Into CSS Logical Properties](https://ishadeed.com/article/css-logical-properties/) | Ahmad Shadeed | |
+| [CSS Logical Properties](https://andy-bell.co.uk/css-logical-properties/) | Andy Bell | |
 
 &nbsp;
 <br />
@@ -225,10 +225,10 @@ Core Web Vitals (CWV) é o conjunto de métricas que definem o estado da perform
 
 | Artigo | Autor | Lido |
 | ----------- | -------- | -------- |
-| [CSS para Web Vitals](https://web.dev/css-web-vitals/) | Una Kravets e Katie Hempenius | [ ] |
-| [Extraia CSS crítico](https://web.dev/extract-critical-css/) | Milica Mihajlija | [ ] |
-| [Defer non-critical CSS](https://web.dev/defer-non-critical-css/) | Demian Renzulli | [ ] |
-| [How to remove unused CSS from a site](https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/) | Chris Coyier | [ ] |
+| [CSS para Web Vitals](https://web.dev/css-web-vitals/) | Una Kravets e Katie Hempenius | |
+| [Extraia CSS crítico](https://web.dev/extract-critical-css/) | Milica Mihajlija | |
+| [Defer non-critical CSS](https://web.dev/defer-non-critical-css/) | Demian Renzulli | |
+| [How to remove unused CSS from a site](https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/) | Chris Coyier | |
 
 &nbsp;
 <br />
@@ -240,16 +240,16 @@ Parecido com esse tópico, recomendo também a playlist [Speedy CSS Tips do Jhey
 
 | Artigo | Autor | Tema | Lido |
 | ----------- | -------- | -------- | -------- |
-| [Cubic Bézier: from math to motion](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) | Maxime Heckel | An [ ] |imação |
-| [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | Amelia Wattenberger | Sizing | [ ] |
-| [The master guide to smooth, realistic shadows in CSS](https://dev.to/devang/the-master-guide-to-smooth-realistic-shadows-in-css-463p) | Devang Saklani | Shadows | [ ] |
-| [Relative sizing with EM units](https://piccalil.li/tutorial/relative-sizing-with-em-units/) | Andy Bell | Unidades | [ ] |
-| [Dark Mode by Local Sunlight](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight) | Chris Nicholas | Dark Mode | [ ] |
-| [Advanced CSS-Only HTML Form Styling](https://www.jonathan-harrell.com/blog/advanced-css-only-form-styling/) | Jonathan Harrell | Forms | [ ] |
-| [What’s the Deal with Margin Collapse?](https://www.jonathan-harrell.com/blog/what%E2%80%99s-the-deal-with-margin-collapse/) | Jonathan Harrell | Forms | [ ] |
-| [Better Typography with Font Variants](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/) | Jonathan Harrell | Forms | [ ] |
-| [CSS Nesting](https://developer.chrome.com/articles/css-nesting/) | Adam Argyle | Nesting | [ ] |
-| [Thinking About The Cut-Out Effect: CSS or SVG?](https://ishadeed.com/article/thinking-about-the-cut-out-effect/) | Ahmad Shadeed | Masking / SVG | [ ] |
+| [Cubic Bézier: from math to motion](https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/) | Maxime Heckel | An |imação |
+| [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | Amelia Wattenberger | Sizing | |
+| [The master guide to smooth, realistic shadows in CSS](https://dev.to/devang/the-master-guide-to-smooth-realistic-shadows-in-css-463p) | Devang Saklani | Shadows | |
+| [Relative sizing with EM units](https://piccalil.li/tutorial/relative-sizing-with-em-units/) | Andy Bell | Unidades | |
+| [Dark Mode by Local Sunlight](https://www.ctnicholas.dev/articles/dark-mode-by-sunlight) | Chris Nicholas | Dark Mode | |
+| [Advanced CSS-Only HTML Form Styling](https://www.jonathan-harrell.com/blog/advanced-css-only-form-styling/) | Jonathan Harrell | Forms | |
+| [What’s the Deal with Margin Collapse?](https://www.jonathan-harrell.com/blog/what%E2%80%99s-the-deal-with-margin-collapse/) | Jonathan Harrell | Forms | |
+| [Better Typography with Font Variants](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/) | Jonathan Harrell | Forms | |
+| [CSS Nesting](https://developer.chrome.com/articles/css-nesting/) | Adam Argyle | Nesting | |
+| [Thinking About The Cut-Out Effect: CSS or SVG?](https://ishadeed.com/article/thinking-about-the-cut-out-effect/) | Ahmad Shadeed | Masking / SVG | |
 
 &nbsp;
 <br />
